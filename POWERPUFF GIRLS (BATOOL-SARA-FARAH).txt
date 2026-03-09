@@ -1,0 +1,4 @@
+//POWERPUFF GIRLS (BATOOL-SARA-FARAH)
+#include<unistd.h>
+char tasks[100][1001];
+int count=0;
